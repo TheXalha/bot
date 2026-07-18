@@ -1,0 +1,42 @@
+{
+  "logger.rs": {
+    "bytes": 19094,
+    "lines": 702,
+    "log_info_calls": 0,
+    "log_warn_calls": 0,
+    "log_error_calls": 0,
+    "structured_log_events": 0,
+    "direct_println_calls": 2,
+    "direct_eprintln_calls": 8
+  },
+  "main.rs": {
+    "bytes": 920,
+    "lines": 36,
+    "log_info_calls": 2,
+    "log_warn_calls": 0,
+    "log_error_calls": 1,
+    "structured_log_events": 0,
+    "direct_println_calls": 0,
+    "direct_eprintln_calls": 0
+  },
+  "market_scanner.rs": {
+    "bytes": 78683,
+    "lines": 2423,
+    "log_info_calls": 56,
+    "log_warn_calls": 10,
+    "log_error_calls": 0,
+    "structured_log_events": 4,
+    "direct_println_calls": 0,
+    "direct_eprintln_calls": 0
+  },
+  "trading_bot.rs": {
+    "bytes": 130312,
+    "lines": 3350,
+    "log_info_calls": 59,
+    "log_warn_calls": 51,
+    "log_error_calls": 0,
+    "structured_log_events": 9,
+    "direct_println_calls": 0,
+    "direct_eprintln_calls": 0
+  }
+}
